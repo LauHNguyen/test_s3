@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\bin\Debug\net6.0\Nah.exe
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\bin\Debug\net6.0\Nah.deps.json
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\bin\Debug\net6.0\Nah.runtimeconfig.json
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\bin\Debug\net6.0\Nah.dll
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\bin\Debug\net6.0\Nah.pdb
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\Nah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\Nah.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\Nah.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\Nah.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\Nah.dll
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\refint\Nah.dll
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\Nah.pdb
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\Nah.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\game\CNPM\Nah\obj\Debug\net6.0\ref\Nah.dll
